@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "170696046342",
+    "firebase_url": "https://sales-reps-1646c.firebaseio.com",
+    "project_id": "sales-reps-1646c",
+    "storage_bucket": "sales-reps-1646c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170696046342:android:ec1395f681b98e9d",
+        "android_client_info": {
+          "package_name": "br.com.rmit.salesreps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170696046342-uuclsunh6l8ro8s1mr31k3kkrl508bj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.rmit.salesreps",
+            "certificate_hash": "f827ed14f8c321a8651cf4e624a3b257617319fa"
+          }
+        },
+        {
+          "client_id": "170696046342-6e47448urdtms414gna5btk3vk0b10ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9fxlaNoU17gS5zjv9azkZnri_FmxIHCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170696046342-6e47448urdtms414gna5btk3vk0b10ut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

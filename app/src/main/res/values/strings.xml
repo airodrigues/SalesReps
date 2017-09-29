@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SalesReps</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Configurações</string>
+    <string name="botao_logar">Logar</string>
+    <string name="botao_cadastro">Cadastrar</string>
+    <string name="text_conta">Já tem conta? Faça o login</string>
+    <string name="text_nao_tem_conta">Não tem conta ? crie uma!!</string>
+    <string name="texto_digite_usuario">Digite seu usuário</string>
+    <string name="text_digite_senha">Digite sua senha</string>
+    <string name="texto_email">Digite seu email</string>
+    <string name="texto_magazine">Magazine do Lar</string>
+    <string name="texto_novo_usuario">Novo Usuário</string>
+    <string name="title_activity_pedido">PedidoActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pagamento_vista">Pagamento à vista</string>
+</resources>
